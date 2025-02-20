@@ -12,7 +12,7 @@ from PIL import Image
 # ----------------------------------------
 # Setup API keys (Replace with your actual keys)
 # ----------------------------------------
-openai.api_key =  "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" # Replace with your OpenAI API key
+openai.api_key =  " " # Replace with your OpenAI API key
  
 # Create an EasyOCR reader object for English (you can add more languages if needed)
 reader = easyocr.Reader(['en'], gpu=False)

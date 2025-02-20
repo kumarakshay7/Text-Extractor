@@ -1,10 +1,9 @@
-import streamlit as st
-import base64
-import json
-import io
-import os
-import fitz 
-import openai
-import easyocr
-import numpy as np
-from PIL import Image
+streamlit
+pymupdf
+openai
+easyocr
+numpy
+pillow
+torch
+torchvision
+opencv-python-headless
